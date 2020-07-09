@@ -7,6 +7,8 @@ public class CBeggar : INPC
     public void Speak()
     {
         //Beggar speak()
+
+        Debug.Log("Beggar speak");
     }
 
    

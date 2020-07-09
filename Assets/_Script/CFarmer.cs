@@ -7,6 +7,6 @@ public class CFarmer : INPC
     public void Speak()
     {
         //Farmer speak()
-
+        Debug.Log("Farmer speak");
     }
 }

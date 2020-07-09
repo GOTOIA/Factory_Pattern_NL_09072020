@@ -6,6 +6,7 @@ public class CShopowner : INPC
 {
     public void Speak()
     {
-       //Shopowner speak()
+        //Shopowner speak()
+        Debug.Log("Shopowner speak");
     }
 }
